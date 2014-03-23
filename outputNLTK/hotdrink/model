@@ -1,0 +1,15 @@
+SVM-multiclass Version V2.20
+4 # number of classes
+2518 # number of base features
+0 # loss function
+0 # kernel type
+3 # kernel parameter -d 
+1 # kernel parameter -g 
+1 # kernel parameter -s 
+1 # kernel parameter -r 
+empty# kernel parameter -u 
+10073 # highest feature index 
+3 # number of training documents 
+2 # number of support vectors plus 1 
+0 # threshold b, each following line is a SV (starting with alpha*y)
+1 qid:0 170:-0.4463574 398:-0.4463574 2518:-0.0079706684 2688:-0.4463574 2916:1.3390722 5036:-0.0079706684 5206:-0.4463574 5434:-0.4463574 7554:-0.0079706684 7724:1.3390722 7952:-0.4463574 10072:0.023912003 #
